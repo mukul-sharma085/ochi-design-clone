@@ -37,7 +37,7 @@ const Navbar = () => {
       }`}
     >
       <div className="logo">
-        <img src="./ochi.svg" alt="ochi" />
+        <img src="./sundaylabsLogo.jpg" className="w-[15vw]" alt="sunaday labs" />
       </div>
 
       <div className="links flex gap-10">

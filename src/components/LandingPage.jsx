@@ -2,7 +2,7 @@ import { FaLongArrowAltUp } from "react-icons/fa";
 import { motion } from "framer-motion";
 
 const LandingPage = () => {
-  const titles = ["We Create", "Eye-opening", "presentations"];
+  const titles = ["Leapfrog Your ", "Product Development","With Us"];
   const below_border = [
     "For public and private companies",
     "From the first pitch to IPO",
@@ -23,10 +23,10 @@ const LandingPage = () => {
                   initial={{ width: 0 }}
                   animate={{ width: "9vw" }}
                   transition={{ ease: [0.6, -0.05, 0.01, 0.99], duration: 3 }}
-                  className="mr-[0.5vw] w-[9vw] bg-[url('https://ochi.design/wp-content/uploads/2022/04/content-image01.jpg')] rounded-md h-[5vw] relative -top-[0.4]"
+                  className="mr-[0.5vw]  bg-[url('https://nzz858.n3cdn1.secureserver.net/wp-content/uploads/2023/01/Logos-20-150x150.png')] rounded-md h-[6vw] w-[9vw] relative -top-[0.4]"
                 ></motion.div>
               )}
-              <h1 className="uppercase text-[7vw] leading-[6vw] tracking-tighter font-['Founders_Grotesk_X-Condensed'] font-bold">
+              <h1 className=" text-[4vw] leading-[6vw] tracking-tighter font-['Founders_Grotesk_X-Condensed'] font-bold">
                 {title}
               </h1>
             </div>

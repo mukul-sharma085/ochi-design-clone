@@ -4,12 +4,12 @@ function Cards() {
       <div className="cardContainder h-[50vh] w-1/2">
         <div className="card relative w-full h-full bg-[#004D43] rounded-xl flex items-center justify-center">
           <img
-            className="w-32 "
-            src="https://ochi.design/wp-content/uploads/2022/04/logo001.svg"
+            className="w-50 "
+            src="./sundaylabsLogo.jpg"
             alt="relative"
           ></img>
           <button className="absolute  px-5 py-1 rounded-full border-2 left-10 bottom-10">
-            &copy;2019-2022
+            &copy;20xx-20xx
           </button>
         </div>
       </div>
@@ -19,7 +19,7 @@ function Cards() {
             src="https://ochi.design/wp-content/uploads/2022/04/logo002.svg"
             alt="relative2 "
           ></img>
-          <button className="absolute  px-5 py-1 rounded-full border-2 left-10 bottom-10">
+          <button className="absolute mt-20 px-4 py-1 rounded-full border-2 left-10 bottom-10">
             RATING 5.0 ON CLUTCH
           </button>
         </div>
@@ -28,7 +28,7 @@ function Cards() {
             src="https://ochi.design/wp-content/uploads/2022/04/logo002.svg"
             alt="relative2 "
           ></img>
-          <button className="absolute  px-5 py-1 rounded-full border-2 left-10 bottom-10">
+          <button className="absolute  px-5 py-1 rounded-full border-2 left-5 bottom-10">
             BUSINESS BOOTCAMP ALUMINI
           </button>
         </div>

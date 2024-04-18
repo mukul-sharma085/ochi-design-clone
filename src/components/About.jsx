@@ -6,9 +6,8 @@ function About() {
       className="w-full p-20 bg-[#CDE168] rounded-tl-3xl rounded-tr-3xl text-black"
     >
       <h1 className="font-['Neue_Montreal'] text-[4vw] leading-[3.5vw] tracking-tight ">
-        Ochi is a strategic partner for fast-growing tech businesses that need
-        to raise funds, sell products, explain complex ideas, and hire great
-        people.
+        Sunday labs is a global consulting firm making global remote tech talent
+        more accessible!
       </h1>
 
       <div className="grid gap-y-30 md:grid-cols-12 py-15 outline-top mb-40 md:mb-90 mt-32 border-t-[1px] pt-[1vw]  border-[#a1b562]">
@@ -18,13 +17,13 @@ function About() {
         <div className="md:col-span-4 lg:col-span-4 reset-last">
           <div className="wysiwyg reset-last max-w-275">
             <p>
-              We create tailored presentations to help you persuade your
-              colleagues, clients, or investors. Whether it’s live or digital,
-              delivered for one or a hundred people.
+              Build and grow your business while we build tech that stays and
+              scales As a startup – it’s important to focus on getting things
+              done. 
             </p>
             <p>
-              We believe the mix of strategy and design (with a bit of coffee)
-              is what makes your message clear, convincing, and captivating.
+            We do exactly that. We take the driver’s seat from a tech &
+              product perspective while you focus on adoption and growth.
             </p>
           </div>
         </div>
@@ -64,6 +63,7 @@ function About() {
             Read More
             <div className="w-2 h-2 bg-zinc-100 rounded-full"></div>
           </button>
+          
         </div>
         <div className="w-full h-[60vh] rounded-3xl bg-[#3a431d] overflow-hidden">
           <img

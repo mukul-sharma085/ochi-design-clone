@@ -23,7 +23,7 @@ function App() {
       <Cards />
       {/* <ReadyTo /> */}
 
-      <Footer />
+      {/* <Footer /> */}
     </div>
   );
 }
