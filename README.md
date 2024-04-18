@@ -1,11 +1,6 @@
 open in desktop for mobile not optimize 
 
-# Ochi - Scroll Animation Showcase
 
-![image](https://github.com/alok-mishra143/Ochi/assets/100504874/68c26e5a-a433-42f8-b7be-ab2183f5470b)
-
-
-Ochi is a captivating webpage designed to showcase scroll animations using the powerful combination of GSAP, Locomotive Scroll, and React JS. With smooth and visually stunning animations, Ochi aims to demonstrate the seamless integration of these libraries to create an immersive user experience.
 
 ## Table of Contents
 - [Getting Started](#getting-started)
